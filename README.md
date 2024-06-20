@@ -22,30 +22,31 @@ Follow these steps to set up and run VirtualGlam locally on your machine:
     ```sh
     cd VirtualGlam
     ```
+3. **Download the complete [ckpt folder](https://drive.google.com/drive/folders/1GSpHnqK07lc6Sdta5IRn4xsmeOvQ1oIQ?q=sharedwith:public%20parent:1GSpHnqK07lc6Sdta5IRn4xsmeOvQ1oIQ) manually and replace it with the existing one in the VirtualGlam directory**
 
-3. **Create the virtual environment:**
+4. **Create the virtual environment:**
     ```sh
     conda env create -f environment.yaml
     ```
 
-4. **Activate the virtual environment:**
+5. **Activate the virtual environment:**
     ```sh
     conda activate idm
     ```
 
 ### Running the Application
 
-5. **Run the inference script:**
+6. **Run the inference script:**
     ```sh
     sh inference.sh
     ```
 
-6. **Start the server demo:**
+7. **Start the server demo:**
     ```sh
     python product_demo/flask.py
     ```
 
-7. **Open `virtualGlam.html` in your preferred browser** to access the application interface.
+8. **Open `virtualGlam.html` in your preferred browser** to access the application interface.
 
 ### Troubleshooting
 
