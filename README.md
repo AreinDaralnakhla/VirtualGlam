@@ -1,6 +1,6 @@
 # VirtualGlam
 
-VirtualGlam is an innovative product that leverages advanced deep learning models to provide virtual try-on experiences for fashion items. With VirtualGlam, you can see how different garments look on a human model in real-time, all from the comfort of your device.
+VirtualGlam is an innovative product that leverages advanced deep learning models to provide a virtual try-on experience for fashion items. With VirtualGlam, you can see how any garment will look on you with the ability to mix and match, all from the comfort of your home. This product is in constant development, keep an eye on new features in the future. 
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ Follow these steps to set up and run VirtualGlam locally on your machine:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/VirtualGlam.git
+    git clone https://github.com/AreinDaralnakhla/VirtualGlam.git
     ```
 
 2. **Navigate to the project directory:**
@@ -40,9 +40,9 @@ Follow these steps to set up and run VirtualGlam locally on your machine:
     sh inference.sh
     ```
 
-6. **Start the Gradio demo:**
+6. **Start the server demo:**
     ```sh
-    python gradio_demo/flask.py
+    python product_demo/flask.py
     ```
 
 7. **Open `virtualGlam.html` in your preferred browser** to access the application interface.
