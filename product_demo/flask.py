@@ -139,7 +139,7 @@ def tryon():
     human_img = Image.open(io.BytesIO(human_img_file.read())).convert("RGB").resize((768, 1024)) 
 
     garm_img_filename = secure_filename(garm_img_id + ".jpeg")
-    garm_img_path = os.path.join('./gradio_demo/garments/', garm_img_filename)
+    garm_img_path = os.path.join('./product_demo/garments/', garm_img_filename)
     garm_img = Image.open(garm_img_path).convert("RGB").resize((768, 1024))
 
     print("Images have been received")
