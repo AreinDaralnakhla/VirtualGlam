@@ -42,7 +42,7 @@ Follow these steps to set up and run VirtualGlam locally on your machine:
 
 6. **Start the server demo:**
     ```sh
-    python product_demo/flask.py
+    python product_demo/app.py
     ```
 
 7. **Open `virtualGlam.html` in your preferred browser** to access the application interface.
