@@ -1,6 +1,6 @@
 # VirtualGlam
 
-VirtualGlam is an innovative product that leverages advanced deep learning models to provide a virtual try-on experience for fashion items. With VirtualGlam, you can see how any garment will look on you with the ability to mix and match, all from the comfort of your home. This product is in constant development, keep an eye on new features in the future. 
+VirtualGlam is a product that leverages deep learning models to provide a virtual try-on experience for fashion items. With VirtualGlam, you can see how any garment will look on you with the ability to mix and match, all from the comfort of your home. This product is in constant development, keep an eye on new features in the future. 
 
 ## Getting Started
 
